@@ -1,4 +1,4 @@
-export default [
+const posts = [
   {
     id: 1,
     title: "Post 1",
@@ -25,3 +25,5 @@ export default [
     body: "This is post 5",
   },
 ];
+
+export default posts;
